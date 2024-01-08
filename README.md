@@ -1,8 +1,8 @@
 ### Ecostability model and Learning in Linear Quadratic network-games
 
 In the context of Network Games, the linear quadratic model has been extensively
-used to model strategic interactions between a group of individuals or organisa-
-tions. Due to its intrinsic simplicity, it allows to study games where a player’s
+used to model strategic interactions between a group of individuals or organisations.
+Due to its intrinsic simplicity, it allows to study games where a player’s
 payoff not only depends on his own action but also on those of their neighbors,
 in an underlying network structure, with numerous potential applications in eco-
 nomics and social sciences. When all players have full and perfect knowledge of
